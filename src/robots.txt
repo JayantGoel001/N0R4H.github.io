@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://N0R4H.github.io/sitemap_index.xml
